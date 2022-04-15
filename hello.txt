@@ -4,3 +4,8 @@ git status
 git add
 git commit -m ""
 
+---- change on b1-----------
+git branch b1
+git branch -v
+
+
