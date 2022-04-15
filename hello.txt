@@ -4,8 +4,17 @@ git status
 git add
 git commit -m ""
 
+
+
 ---- change on b1-----------
 git branch b1
 git branch -v
 
 
+
+---- change on b1 002-----------
+git branch b1  创建b1分支
+git checkout b1 切换至分支b1
+git status 查看b1分支的状态
+git add 文件名  将文件添加至b1的缓存区
+git commit -m “”“” 文件名  将缓存区文件添加至本地库
